@@ -132,6 +132,9 @@ Two separate but intertwined issues at play here:
     - LCP is not part of Paint Timing API
 
 ### Lighthouse 6 notes, errata & resources
+- Moovweb also reporting widespread perf regressions: https://www.moovweb.com/ecommerce-lighthousev6-0-scores-plummet/
+    - 72.1% of IR500 sites are seeing lower scores than before
+    - "Google Play’s performance score dropped by 32 points, Net-a-Porter lost 28 points and the eCommerce legend, Amazon, saw its performance score drop 21 points to a score of 32. Other brand names to lose points include Adidas, Gap and the eCommerce darling Warby Parker, all of which lost 20 points or more. And Apple, Nike and Walmart’s performance scores dropped by 15 points."
 - **Paul Irish (Lighthouse dev): Investigating LCP: Largest Contentful Paint:** https://www.youtube.com/watch?v=diAc65p15ag
     
 
@@ -220,9 +223,4 @@ Two separate but intertwined issues at play here:
 
 ## QUESTIONS
 
-- What does the tooling look like for monitoring this stuff?
-- Initial load only?
-- How to monitor?
-- PageSpeed Insights API?
-- IR 500 scores?
-- Chrome User Experience Report? BigQuery?
+- BigQuery?
