@@ -220,6 +220,16 @@ Two separate but intertwined issues at play here:
         - Large JS bundles
         - Render-blocking JS
 
+## WEB.DEV 2020 DAY 3
+
+### IMAGE COMPRESSION DEEP-DIVE
+
+- Image compression codec will vary in effectiveness based on the content of the images, so try to apply the most appropriate format to the given image.
+
+- goo.gle/yuv
+
+- Squoosh.app
+
 
 ## QUESTIONS
 
