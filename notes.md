@@ -7,7 +7,7 @@
 3. **[Lighthouse 6](#LIGHTHOUSE-6)**
     1. [Summary](#Lighthouse-6-Summary)
     2. [Notes, errata & resources](#Lighthouse-6-notes-errata--resources)
-4. **[MISC WEB.DEV NOTES](#WEBDEV-2020-DAY-1)**
+4. **[Misc WEB.DEV notes](#WEBDEV-2020-DAY-1)**
 
 
 # Summary
